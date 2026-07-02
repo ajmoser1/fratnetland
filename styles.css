@@ -136,7 +136,7 @@ a { color: inherit; text-decoration: none; }
 
 .hero__sub {
   font-size: 1.15rem;
-  color: var(--muted);
+  color: rgba(221, 235, 249, 1);
   max-width: 620px;
   margin-bottom: 40px;
 }
@@ -162,7 +162,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .stat__num {
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", monospace;
   font-size: 2.6rem;
   font-weight: 700;
   color: var(--accent);
